@@ -1,0 +1,28 @@
+6 5 Cards don't add to 11; start a new pile
+Cards add to 11; cover with new cards
+3 Cards don't add to 11; start a new pile
+3 3 Cards don't add to 11; start a new pile
+3 3 8 Cards don't add to 11; start a new pile
+8 Cards add to 11; cover with new cards
+8 9 Cards don't add to 11; start a new pile
+8 9 11 Cards don't add to 11; start a new pile
+8 9 11 1 Cards don't add to 11; start a new pile
+8 9 11 1 10 Cards don't add to 11; start a new pile
+8 9 11 Cards add to 11; cover with new cards
+8 9 11 9 Cards don't add to 11; start a new pile
+8 9 11 9 13 Cards don't add to 11; start a new pile
+8 9 11 9 13 11 Cards don't add to 11; start a new pile
+8 9 11 9 13 11 9 Cards don't add to 11; start a new pile
+8 9 11 9 13 11 9 2 Cards don't add to 11; start a new pile
+8 2 11 9 13 11 Cards add to 11; cover with new cards
+8 11 11 13 Cards add to 11; cover with new cards
+8 11 11 13 5 Cards don't add to 11; start a new pile
+8 11 11 13 5 11 Cards don't add to 11; start a new pile
+8 11 11 13 5 11 7 Cards don't add to 11; start a new pile
+8 11 11 13 5 11 7 6 Cards don't add to 11; start a new pile
+8 11 11 13 6 11 Cards add to 11; cover with new cards
+8 11 11 13 6 11 13 Cards don't add to 11; start a new pile
+8 11 11 13 6 11 13 10 Cards don't add to 11; start a new pile
+8 11 11 13 6 11 13 10 4 Cards don't add to 11; start a new pile
+8 11 11 13 6 11 13 10 4 3 Cards don't add to 11; start a new pile
+you lose!

@@ -1,0 +1,74 @@
+8 5 Cards don't add to 11; start a new pile
+8 5 10 Cards don't add to 11; start a new pile
+8 5 10 4 Cards don't add to 11; start a new pile
+8 5 10 4 11 Cards don't add to 11; start a new pile
+8 5 10 4 11 6 Cards don't add to 11; start a new pile
+8 6 10 4 Cards add to 11; cover with new cards
+8 6 10 4 9 Cards don't add to 11; start a new pile
+8 6 10 4 9 2 Cards don't add to 11; start a new pile
+8 6 10 4 Cards add to 11; cover with new cards
+8 6 10 4 11 Cards don't add to 11; start a new pile
+8 6 10 4 11 8 Cards don't add to 11; start a new pile
+8 6 10 4 11 8 11 Cards don't add to 11; start a new pile
+8 6 10 4 11 8 11 3 Cards don't add to 11; start a new pile
+3 6 10 4 11 8 Cards add to 11; cover with new cards
+8 6 10 4 Cards add to 11; cover with new cards
+8 6 10 4 2 Cards don't add to 11; start a new pile
+8 6 10 4 2 10 Cards don't add to 11; start a new pile
+8 6 10 4 2 10 3 Cards don't add to 11; start a new pile
+3 6 10 4 2 Cards add to 11; cover with new cards
+3 6 10 4 2 9 Cards don't add to 11; start a new pile
+3 6 10 4 Cards add to 11; cover with new cards
+3 6 10 4 3 Cards don't add to 11; start a new pile
+3 6 10 4 3 10 Cards don't add to 11; start a new pile
+3 6 10 4 3 10 4 Cards don't add to 11; start a new pile
+3 6 10 4 3 10 4 5 Cards don't add to 11; start a new pile
+3 5 10 4 3 10 Cards add to 11; cover with new cards
+3 5 10 4 3 10 1 Cards don't add to 11; start a new pile
+3 5 1 4 3 Cards add to 11; cover with new cards
+3 5 1 4 3 12 Cards don't add to 11; start a new pile
+3 5 1 4 3 12 10 Cards don't add to 11; start a new pile
+3 5 10 4 3 Cards add to 11; cover with new cards
+3 5 10 4 3 7 Cards don't add to 11; start a new pile
+3 5 10 7 Cards add to 11; cover with new cards
+3 5 10 7 7 Cards don't add to 11; start a new pile
+3 5 10 7 7 1 Cards don't add to 11; start a new pile
+3 5 1 7 Cards add to 11; cover with new cards
+3 5 1 7 13 Cards don't add to 11; start a new pile
+3 5 1 7 13 6 Cards don't add to 11; start a new pile
+3 6 1 7 Cards add to 11; cover with new cards
+3 6 1 7 8 Cards don't add to 11; start a new pile
+8 6 1 Cards add to 11; cover with new cards
+8 6 1 12 Cards don't add to 11; start a new pile
+8 6 1 12 4 Cards don't add to 11; start a new pile
+8 6 1 12 4 12 Cards don't add to 11; start a new pile
+8 6 1 12 4 12 9 Cards don't add to 11; start a new pile
+8 6 1 12 4 12 9 7 Cards don't add to 11; start a new pile
+8 6 1 12 7 12 Cards add to 11; cover with new cards
+8 6 1 12 7 12 13 Cards don't add to 11; start a new pile
+8 6 1 12 7 12 13 2 Cards don't add to 11; start a new pile
+8 6 1 12 7 12 13 2 5 Cards don't add to 11; start a new pile
+8 5 1 12 7 12 13 Cards add to 11; cover with new cards
+8 5 1 12 7 12 13 4 Cards don't add to 11; start a new pile
+8 5 1 12 4 12 Cards add to 11; cover with new cards
+8 5 1 12 4 12 8 Cards don't add to 11; start a new pile
+8 5 1 12 4 12 8 6 Cards don't add to 11; start a new pile
+8 6 1 12 4 12 Cards add to 11; cover with new cards
+8 6 1 12 4 12 13 Cards don't add to 11; start a new pile
+8 6 1 12 4 12 13 3 Cards don't add to 11; start a new pile
+3 6 1 12 4 12 Cards add to 11; cover with new cards
+3 6 1 12 4 12 5 Cards don't add to 11; start a new pile
+3 5 1 12 4 Cards add to 11; cover with new cards
+3 5 1 12 4 1 Cards don't add to 11; start a new pile
+3 5 1 12 4 1 12 Cards don't add to 11; start a new pile
+3 5 1 12 4 1 12 7 Cards don't add to 11; start a new pile
+3 5 1 12 7 1 Cards add to 11; cover with new cards
+3 5 1 12 7 1 9 Cards don't add to 11; start a new pile
+3 5 1 12 7 1 9 2 Cards don't add to 11; start a new pile
+3 5 1 12 7 1 Cards add to 11; cover with new cards
+3 5 1 12 7 1 13 Cards don't add to 11; start a new pile
+3 5 1 12 7 1 13 1 Cards don't add to 11; start a new pile
+3 5 1 12 7 1 13 1 11 Cards don't add to 11; start a new pile
+3 5 1 7 1 1 J, Q, K (11, 12, 13) visible; cover with new cards
+3 5 1 7 1 1 6 Cards don't add to 11; start a new pile
+you win!
